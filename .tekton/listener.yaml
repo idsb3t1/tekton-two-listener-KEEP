@@ -59,7 +59,7 @@ spec:
 apiVersion: tekton.dev/v1alpha1
 kind: EventListener
 metadata:
-  name: listener-dublin
+  name: listener-ziheng
 spec:
   triggers:
     - binding:
@@ -70,7 +70,7 @@ spec:
 apiVersion: tekton.dev/v1alpha1
 kind: EventListener
 metadata:
-  name: listener-cork
+  name: listener-brian
 spec:
   triggers:
     - binding:
